@@ -1,7 +1,7 @@
 img {
     display: block;
-    height: 200px;
-    width: auto;
+    height: auto;
+    min-width: 30%;
     overflow: hidden;
     max-width: 100%;
 }
